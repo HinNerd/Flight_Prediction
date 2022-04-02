@@ -1,7 +1,7 @@
 Flight_Prediction
 ==============================
 
-Flight Prediction model forr Model Engineering module within Data Science Master at IU.
+Flight Prediction model for Model Engineering module within Data Science Master at IU.
 
 Project Organization
 ------------
